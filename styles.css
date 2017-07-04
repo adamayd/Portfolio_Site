@@ -1,0 +1,68 @@
+#main {
+  background-color: #fff;
+}
+
+section {
+  padding: 50px 50px;
+  background-color: #b29464;
+}
+
+section h2 {
+  text-transform: uppercase;
+}
+
+#logo {
+  color: #fff;
+}
+
+.navbar {
+  background-color: #14ccb7;
+}
+
+.navbar-header {
+  padding-left: 15px;
+}
+
+.navbar-header:hover {
+  background-color: #ff9d00;
+  transition: all 0.5s;
+}
+
+nav div div ul li a {
+  text-transform: uppercase;
+  color: #fff !important;
+}
+
+nav div div ul li:hover {
+  background: #ff9d00;
+  transition: all 0.5s;
+}
+
+.bgimg-1, .bgimg-2 {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgimg-1 {
+  background-image: url('http://i63.tinypic.com/25u6xk0.jpg');
+  min-height: 400px;
+  opacity: 0.65;
+}
+.bgimg-2 {
+  background-image: url('http://www.theartcareerproject.com/wp-content/uploads/2014/12/Web-Developer.jpg');
+  min-height: 400px;
+  opacity: 0.65;
+}
+
+.img-thumbnail {
+  margin: 10px;
+}
+
+footer {
+  background-color: #14ccb7;
+  border-top: 1px solid #fff;
+  padding: 10px;
+  color: #fff;
+}
