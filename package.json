@@ -1,0 +1,22 @@
+{
+  "name": "adamayddevelopment",
+  "version": "0.0.1",
+  "description": "Adam Ayd Development Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamayd/adamayddevelopment.git"
+  },
+  "author": "Adam Ayd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamayd/adamayddevelopment/issues"
+  },
+  "homepage": "https://github.com/adamayd/adamayddevelopment#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
