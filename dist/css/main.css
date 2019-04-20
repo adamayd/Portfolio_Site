@@ -24,7 +24,7 @@ main {
     width: 28px;
     height: 3px;
     margin: 0 0 5px;
-    background: #fff;
+    background: #eee;
     transition: all 0.5s ease-out; }
   .menu-btn.close {
     transform: rotate(180deg); }
@@ -91,7 +91,7 @@ main {
     text-transform: uppercase;
     padding: 1rem 0;
     font-weight: 300;
-    color: #fff;
+    color: #eee;
     text-decoration: none;
     transition: all 0.5s ease-out; }
     .menu .nav-link:hover {
@@ -145,7 +145,7 @@ main {
 
 body {
   background: #444;
-  color: #fff;
+  color: #eee;
   height: 100%;
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -181,7 +181,7 @@ h3 {
     background: rgba(73, 73, 73, 0.5); }
 
 a {
-  color: #fff;
+  color: #eee;
   text-decoration: none; }
 
 header {
