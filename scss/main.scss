@@ -1,5 +1,6 @@
 @import 'config';
 @import 'home';
+@import 'portfolio';
 @import 'about';
 @import 'menu';
 @import 'mobile';
@@ -48,4 +49,12 @@ header {
 
 .text-secondary {
   color: $secondary-color;
+}
+
+#main-footer {
+  text-align: center;
+  padding: 1rem;
+  background: darken($primary-color, 10);
+  color: set-text-color($primary-color);
+  height: 60px;
 }
