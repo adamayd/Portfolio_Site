@@ -87,6 +87,10 @@ main {
       .boxes div:hover span {
         color: #eee; }
 
+#contact > .icons {
+  display: flex;
+  justify-content: center; }
+
 .menu-btn {
   position: absolute;
   z-index: 3;
