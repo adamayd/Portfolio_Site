@@ -8,12 +8,12 @@
   div {
     font-size: 2rem;
     border: solid 3px set-text-color($primary-color);
-    padding: 1.5rem 2.5rem;
+    padding: 1rem 2rem;
     margin-bottom: 3rem;
     @include easeOut;
 
     &:hover {
-      padding: 1rem 2rem;
+      font-size: 2.1rem;
       background: $secondary-color;
       color: set-text-color($secondary-color);
 
